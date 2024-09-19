@@ -1,0 +1,7 @@
+settings.py
+admin.py
+models.py
+.venv/
+# Ignore Python compiled bytecode files
+__pycache__/
+*.pyc
